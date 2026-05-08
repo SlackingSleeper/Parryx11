@@ -21,11 +21,11 @@ namespace ParryParryParryParryParryParryParryParryParryParryParry
         }
         internal static class Settings
         {
-            public const string wantActivated = "ParryParryParryParryParryParryParryParryParryParryParry";
+            public const string Px11Holder = "ParryParryParryParryParryParryParryParryParryParryParry";
 
             public static void Register()
             {
-                NeonLite.Settings.AddHolder(wantActivated);
+                NeonLite.Settings.AddHolder(Px11Holder);
             }
         }
     }
